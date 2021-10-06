@@ -1,0 +1,9 @@
+GET http://localhost:3001/api/contents/get
+
+###
+
+POST http://localhost:3001/api/contents/post
+
+{
+
+}
